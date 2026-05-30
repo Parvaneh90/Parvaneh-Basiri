@@ -1,12 +1,15 @@
 # Parvaneh-Basiri
-Hi, I'm Pari 👋
+Hi, I'm Parvaneh 👋
 ## About Me
 📊 Interested in:
 - Data Analytics
 - Business Analytics
 - Supply Chain
 - Machine Learning
--  ### Skills 
-         SQL - Power BI - Excel - Python
+-  ### 🌱 Currently Learning:
+- Advanced SQL
+- Power BI
+- Machine Learning
+- Power BI
    ## Projects
    
